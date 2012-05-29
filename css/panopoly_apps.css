@@ -1,0 +1,16 @@
+#apps-list .item-list ul li {
+  width: 46.5%;
+}
+
+#apps-list .app-rating {
+ display: none;
+}
+
+#apps-list h2 {
+  margin-top: .4em;
+  width: 300px;
+}
+
+#apps-list .app-teaser .app-action {
+  padding-bottom: 5px;
+}
